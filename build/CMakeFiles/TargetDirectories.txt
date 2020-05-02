@@ -1,0 +1,3 @@
+/home/obiito/c/vMK-2020/mashgraf/Rey-Trasing/build/CMakeFiles/rebuild_cache.dir
+/home/obiito/c/vMK-2020/mashgraf/Rey-Trasing/build/CMakeFiles/rt.dir
+/home/obiito/c/vMK-2020/mashgraf/Rey-Trasing/build/CMakeFiles/edit_cache.dir

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/obiito/c/vMK-2020/mashgraf/Rey-Trasing/Bitmap.cpp
+vector
+-
+fstream
+-
+cstring
+-
+
+/home/obiito/c/vMK-2020/mashgraf/Rey-Trasing/Bitmap.h
+
+/home/obiito/c/vMK-2020/mashgraf/Rey-Trasing/geometry.h
+cmath
+-
+vector
+-
+cassert
+-
+iostream
+-
+
+/home/obiito/c/vMK-2020/mashgraf/Rey-Trasing/main.cpp
+iostream
+-
+cstdint
+-
+string
+-
+vector
+-
+unordered_map
+-
+cmath
+-
+Bitmap.h
+/home/obiito/c/vMK-2020/mashgraf/Rey-Trasing/Bitmap.h
+geometry.h
+/home/obiito/c/vMK-2020/mashgraf/Rey-Trasing/geometry.h
+
